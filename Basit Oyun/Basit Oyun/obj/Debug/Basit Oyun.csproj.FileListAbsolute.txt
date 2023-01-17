@@ -1,0 +1,21 @@
+c:\users\ogrenci1\documents\visual studio 2013\Projects\Basit Oyun\Basit Oyun\bin\Debug\Basit Oyun.exe.config
+c:\users\ogrenci1\documents\visual studio 2013\Projects\Basit Oyun\Basit Oyun\bin\Debug\Basit Oyun.exe
+c:\users\ogrenci1\documents\visual studio 2013\Projects\Basit Oyun\Basit Oyun\bin\Debug\Basit Oyun.pdb
+c:\users\ogrenci1\documents\visual studio 2013\Projects\Basit Oyun\Basit Oyun\obj\Debug\Basit Oyun.csprojResolveAssemblyReference.cache
+c:\users\ogrenci1\documents\visual studio 2013\Projects\Basit Oyun\Basit Oyun\obj\Debug\Basit_Oyun.Form1.resources
+c:\users\ogrenci1\documents\visual studio 2013\Projects\Basit Oyun\Basit Oyun\obj\Debug\Basit_Oyun.Properties.Resources.resources
+c:\users\ogrenci1\documents\visual studio 2013\Projects\Basit Oyun\Basit Oyun\obj\Debug\Basit Oyun.csproj.GenerateResource.Cache
+c:\users\ogrenci1\documents\visual studio 2013\Projects\Basit Oyun\Basit Oyun\obj\Debug\Basit Oyun.exe
+c:\users\ogrenci1\documents\visual studio 2013\Projects\Basit Oyun\Basit Oyun\obj\Debug\Basit Oyun.pdb
+F:\Enes Kaya\Basit Oyun\Basit Oyun\bin\Debug\Basit Oyun.exe.config
+F:\Enes Kaya\Basit Oyun\Basit Oyun\obj\Debug\Basit Oyun.exe
+F:\Enes Kaya\Basit Oyun\Basit Oyun\obj\Debug\Basit Oyun.pdb
+F:\Enes Kaya\Basit Oyun\Basit Oyun\bin\Debug\Basit Oyun.exe
+F:\Enes Kaya\Basit Oyun\Basit Oyun\bin\Debug\Basit Oyun.pdb
+F:\Enes Kaya\Basit Oyun\Basit Oyun\obj\Debug\Basit Oyun.csprojResolveAssemblyReference.cache
+F:\Enes Kaya\Basit Oyun\Basit Oyun\obj\Debug\Basit_Oyun.Form1.resources
+F:\Enes Kaya\Basit Oyun\Basit Oyun\obj\Debug\Basit_Oyun.Properties.Resources.resources
+F:\Enes Kaya\Basit Oyun\Basit Oyun\obj\Debug\Basit Oyun.csproj.GenerateResource.Cache
+C:\Users\Enes Kaya\Desktop\Okulda Yapılanlar\Basit Oyun\Basit Oyun\bin\Debug\Basit Oyun.exe.config
+C:\Users\Enes Kaya\Desktop\Okulda Yapılanlar\Basit Oyun\Basit Oyun\obj\Debug\Basit Oyun.exe
+C:\Users\Enes Kaya\Desktop\Okulda Yapılanlar\Basit Oyun\Basit Oyun\obj\Debug\Basit Oyun.pdb

@@ -1,0 +1,23 @@
+c:\users\ogrenci1\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\ogrenci1\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\ogrenci1\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\ogrenci1\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\ogrenci1\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\ogrenci1\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\ogrenci1\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\ogrenci1\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+c:\users\ogrenci1\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Enes Kaya\Desktop\Okulda Yapılanlar\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Enes Kaya\Desktop\Okulda Yapılanlar\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Enes Kaya\Desktop\Okulda Yapılanlar\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\Sınava Çalışma\Okulda Yapılanlar\trafiklambası\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\Sınava Çalışma\Okulda Yapılanlar\trafiklambası\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\Sınava Çalışma\Okulda Yapılanlar\trafiklambası\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\Sınava Çalışma\Okulda Yapılanlar\trafiklambası\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.AssemblyReference.cache
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\Sınava Çalışma\Okulda Yapılanlar\trafiklambası\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.SuggestedBindingRedirects.cache
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\Sınava Çalışma\Okulda Yapılanlar\trafiklambası\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\Sınava Çalışma\Okulda Yapılanlar\trafiklambası\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\Sınava Çalışma\Okulda Yapılanlar\trafiklambası\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\Sınava Çalışma\Okulda Yapılanlar\trafiklambası\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\Sınava Çalışma\Okulda Yapılanlar\trafiklambası\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\Sınava Çalışma\Okulda Yapılanlar\trafiklambası\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb

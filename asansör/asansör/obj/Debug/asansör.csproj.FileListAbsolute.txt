@@ -1,0 +1,20 @@
+C:\Users\Ogrenci1\Documents\Visual Studio 2013\Projects\asansör\asansör\bin\Debug\asansör.exe.config
+C:\Users\Ogrenci1\Documents\Visual Studio 2013\Projects\asansör\asansör\bin\Debug\asansör.exe
+C:\Users\Ogrenci1\Documents\Visual Studio 2013\Projects\asansör\asansör\bin\Debug\asansör.pdb
+C:\Users\Ogrenci1\Documents\Visual Studio 2013\Projects\asansör\asansör\obj\Debug\asansör.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci1\Documents\Visual Studio 2013\Projects\asansör\asansör\obj\Debug\asansör.Form1.resources
+C:\Users\Ogrenci1\Documents\Visual Studio 2013\Projects\asansör\asansör\obj\Debug\asansör.Properties.Resources.resources
+C:\Users\Ogrenci1\Documents\Visual Studio 2013\Projects\asansör\asansör\obj\Debug\asansör.csproj.GenerateResource.Cache
+C:\Users\Ogrenci1\Documents\Visual Studio 2013\Projects\asansör\asansör\obj\Debug\asansör.exe
+C:\Users\Ogrenci1\Documents\Visual Studio 2013\Projects\asansör\asansör\obj\Debug\asansör.pdb
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\asansör\asansör\bin\Debug\asansör.exe.config
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\asansör\asansör\bin\Debug\asansör.exe
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\asansör\asansör\bin\Debug\asansör.pdb
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\asansör\asansör\obj\Debug\asansör.csproj.AssemblyReference.cache
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\asansör\asansör\obj\Debug\asansör.csproj.SuggestedBindingRedirects.cache
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\asansör\asansör\obj\Debug\asansör.Form1.resources
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\asansör\asansör\obj\Debug\asansör.Properties.Resources.resources
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\asansör\asansör\obj\Debug\asansör.csproj.GenerateResource.cache
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\asansör\asansör\obj\Debug\asansör.csproj.CoreCompileInputs.cache
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\asansör\asansör\obj\Debug\asansör.exe
+E:\Lise Çalışmalarım\Flash Belleğim\Enes Kaya\asansör\asansör\obj\Debug\asansör.pdb
